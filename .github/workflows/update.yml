@@ -27,7 +27,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: update md
-        run: sh update.sh
+        run: time=`date +"%Y-%m-%d"` && cat README.md | sed "s/【.*-.*-.*】/【$time】/g" > a && cp a README.md && rm a
 
       - name: commit
         run: |
