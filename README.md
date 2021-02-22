@@ -31,6 +31,6 @@ Python、Java、Scala
 📕 **Recent Posts:**
 * 【2021-02-22】 - [我的私人领域---Hsu's Home](https://www.notion.so/xzw/Hsu-s-Home-319844c4c77149c9b57e7ec40986c7a6)
 
-<p  align="center">
+<p  align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hsuchihwei.hsuchihwei" alt="visitor badge"/>       
 </p>
